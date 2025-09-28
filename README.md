@@ -1,22 +1,4 @@
 ﻿# HR Analytics Dashboard - Power BI
- PS C:\Users\91914\HR-Analytics-Dashboard> git branch
-* main
-PS C:\Users\91914\HR-Analytics-Dashboard> git log --oneline
-ef80bec (HEAD -> main) HR Analytics Dashboard - Power BI Implementation
-PS C:\Users\91914\HR-Analytics-Dashboard> git remote -v
-origin  https://github.com/harshilgithubriit/HR-Analytics-Dashboard.git (fetch)
-origin  https://github.com/harshilgithubriit/HR-Analytics-Dashboard.git (push)
-PS C:\Users\91914\HR-Analytics-Dashboard> git push -u origin main
-Enumerating objects: 10, done.
-Counting objects: 100% (10/10), done.
-Delta compression using up to 8 threads
-Compressing objects: 100% (9/9), done.
-Writing objects: 100% (10/10), 664.58 KiB | 15.46 MiB/s, done.
-Total 10 (delta 0), reused 0 (delta 0), pack-reused 0 (from 0)
-To https://github.com/harshilgithubriit/HR-Analytics-Dashboard.git
- * [new branch]      main -> main
-branch 'main' set up to track 'origin/main'.
-PS C:\Users\91914\HR-Analytics-Dashboard> 
 
 ## Project Overview
 Interactive HR analytics dashboard designed to analyze employee performance, attrition trends, and organizational metrics for data-driven human resource decisions.
