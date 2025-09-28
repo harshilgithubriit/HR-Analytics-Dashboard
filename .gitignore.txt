@@ -1,0 +1,15 @@
+# Ignore Windows system files
+Thumbs.db
+Desktop.ini
+
+# Ignore temporary/backup files
+*.tmp
+*.bak
+*.log
+
+# Ignore Power BI cache
+*.pbit
+*.pbix.local
+
+# Ignore Jupyter checkpoints (if Python is used)
+.ipynb_checkpoints/
